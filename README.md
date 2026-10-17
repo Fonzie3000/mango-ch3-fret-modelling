@@ -8,7 +8,12 @@ Analysis code for Chapter 3 of the PhD thesis "Fluorogenic RNA Mango Aptamers: S
 3. FRET modelling: orientation-dependent FRET model fitting
 
 ## Requirements
-DSSR is not distributed in this repository. Obtain it separately under its own licence.
+Step 1 calls DSSR (Lu, Bussemaker and Olson, 2015). DSSR is not distributed in this repository. It is free for academic users under a licence from Columbia Technology Ventures; see https://x3dna.org/ to obtain it.
+
+## Citation
+If you use the coordinate-extraction step, please cite DSSR:
+
+Lu, X.-J., Bussemaker, H. J. and Olson, W. K. (2015). DSSR: an integrated software tool for dissecting the spatial structure of RNA. Nucleic Acids Research, 43(21), e142. https://doi.org/10.1093/nar/gkv716
 
 ## Status
 Code to be added.
