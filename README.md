@@ -7,7 +7,7 @@ Analysis code for Chapter 3 of the PhD thesis "Fluorogenic RNA Mango Aptamers: S
 - Orientation-dependent FRET model fitting (Cy5 acceptor)
 
 ## Status
-Code to be added. This repository is private until thesis submission.
+Code to be added.
 
 ## Contact
 Fangqi Liu, MRC Laboratory of Medical Sciences / Imperial College London
